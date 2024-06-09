@@ -1,4 +1,4 @@
-# License_plate
+
 # License Plate Recognition
 
 This project is a web application for recognizing license plates in uploaded images. The application uses a Flask backend to handle image uploads and display the results.
