@@ -18,7 +18,8 @@ This project is a web application for recognizing license plates in uploaded ima
 - Bootstrap 4
 - JavaScript (jQuery)
 
-## Setup and Installation
+## Output
+
 
 ### Prerequisites
 
