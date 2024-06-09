@@ -19,6 +19,7 @@ This project is a web application for recognizing license plates in uploaded ima
 - JavaScript (jQuery)
 
 ## Output
+![Example](static/images/Output1.png)
 
 
 ### Prerequisites
